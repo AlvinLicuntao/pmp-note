@@ -2,6 +2,8 @@
 
 ![项目资源管理](./resource.drawio.svg  '项目资源管理')
 
+![relation](./relation.drawio.svg)
+
 ![规划资源管理](./plan.drawio.svg  '规划资源管理')
 
 ![估算活动资源](./estimate.drawio.svg  '估算活动资源')

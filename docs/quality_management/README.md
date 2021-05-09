@@ -41,6 +41,8 @@
 
 ![质量管理的核心概念](./center.drawio.svg '质量管理的核心概念')
 
+![relation](./relation.drawio.svg)
+
 ![规划质量管理](./plan_quality.drawio.svg '规划质量管理')
 
 ![管理质量](./manage_quality.drawio.svg '管理质量')

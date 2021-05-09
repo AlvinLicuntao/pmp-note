@@ -1,5 +1,7 @@
 # 项目采购管理
 
+![relation](./relation.drawio.svg)
+
 ![规划采购管理](./plane-purchase.drawio.svg '规划采购管理')
 
 ![实施采购](./do-purchase.drawio.svg '实施采购')
