@@ -1,5 +1,7 @@
 # 引论
 
+![项目管理过程和知识域](./项目管理过程和知识域.PNG '项目管理过程和知识域')
+
 ![readme.drawio.svg](./readme.drawio.svg 'readme.drawio.svg')
 
 ## PMBOK指南的目的

@@ -14,5 +14,8 @@
 * [项目采购管理](/purchase_management/README.md)
 * [项目相关方管理](/related_parties_management/README.md)
 * [工具和技术](/tool&tech/README.md)
+  * [挣值分析](/tool&tech/EVM/EVM.md)
+* [项目管理计划]() 
+* [项目文件]()
 * [其他]()
   * [mermaid](/other/mermaid.md)

@@ -1,5 +1,7 @@
 # 项目整合管理
 
+![总览](./relation.drawio.svg '总览')
+
 ![制定项目章程](./charter.drawio.svg '制定项目章程')
 
 ![制定项目管理计划](./make_plan.drawio.svg '制定项目管理计划')

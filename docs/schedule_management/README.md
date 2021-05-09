@@ -1,5 +1,8 @@
 # 项目进度管理
 
+![relation1](./relation1.drawio.svg)
+![relation](./relation.drawio.svg)
+
 ![项目进度管理](./schedule.drawio.svg '项目进度管理')
 
 ![规划进度管理](./planing_schedule.drawio.svg '规划进度管理')
@@ -21,8 +24,6 @@
 ![CPM](./cpm.drawio.svg '关键路径法')
 
 ![控制进度](./control_schedule.drawio.svg '控制进度')
-
-![挣值分析](./挣值分析.png '挣值分析')
 
 ![迭代燃尽图](./迭代燃尽图.png '迭代燃尽图')
 

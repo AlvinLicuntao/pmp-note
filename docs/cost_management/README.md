@@ -1,5 +1,5 @@
 # 项目成本管理
-
+![relation](./relation.drawio.svg)
 ![项目成本管理](./cost_management.drawio.svg '项目成本管理')
 ![规划成本管理](./plan_cost.drawio.svg '规划成本管理')
 ![估算成本](./estimate_cost.drawio.svg '估算成本')
